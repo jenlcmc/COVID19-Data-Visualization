@@ -2,9 +2,9 @@
 
 # Work in process
 
-[] Need to fix bar chart visualization
-[] Need to add more data visualization
-[] Better document page
+- [ ] Need to fix bar chart visualization
+- [ ] Need to add more data visualization
+- [ ] Better document page
 
 # Description
 
@@ -36,8 +36,9 @@ The simple way to do is using Anaconda and run this respitory in Anaconda enviro
 
 For more information on how to set up Anaconda & set up virtual env
 
-    - [Anaconda:] (https://docs.anaconda.com/anaconda/install/)
-    - [Virtualenv:](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/) 
+[Anaconda:](https://docs.anaconda.com/anaconda/install/)
+
+[Virtualenv:](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/) 
 ## Libraries
 
 The next step is to make sure you have following libraries:
